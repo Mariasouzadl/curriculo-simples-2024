@@ -1,0 +1,90 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: borden-box;
+    font-family: 'Roboto', sans-seri
+}
+
+body { 
+    background-color: white;
+}
+
+ul {
+    list-style: none;
+}
+main {
+    margin: 1rem;
+    display: grid;
+    grid-template-columns: 30% 1fr;
+    grid-gap: 1rem;   
+}
+
+.left {
+    background-color: blanchedalmond;
+}
+
+.foto{
+
+}
+
+.foto img{
+    width: 100%; 
+    transform: rotateY(180deg);
+}
+
+.foto h1{
+    position:absolute;
+    bottom: 1rem
+    color:
+    widht: 100%
+    text-align: center;
+    /* font-size: 18px */
+}
+
+i{
+    color:aquamarine;
+}
+
+.pessoais, .habilidades, idiomas {
+    padding: 1rem;
+    line-height:2rem;
+}
+
+progress{
+    widht; 100%;
+    height;: 1.8rem;
+}
+
+.experiencia, educacao{
+    padding: 1.5rem; 
+    background-color:antiquewhite;
+    box-shadow: 7px 7px 10px 
+}
+
+.trabalho, .curso{
+    margin: 1.5rem 0;
+}
+
+.trabalho-nome, .curso-nome {
+    font-size: 1.rem;
+    font-weight: bold;
+}
+
+.trabalhop, .educacao p {
+    margin-top: 0.5rem;
+    line-height: 1.5rem;
+    text-align: justify;
+}
+
+.data {
+    color:black;
+}
+
+.atual {
+    backgroud-color:
+}
+
+    
+
